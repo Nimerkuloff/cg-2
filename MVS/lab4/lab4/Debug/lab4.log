@@ -1,0 +1,3 @@
+﻿  lab4.cpp
+c:\users\hehas\repos\cg-2\mvs\lab4\lab4\lab4.cpp(198): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  lab4.vcxproj -> C:\Users\hehas\Repos\cg-2\MVS\lab4\Debug\lab4.exe
